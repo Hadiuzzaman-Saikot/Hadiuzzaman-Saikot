@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Data and Business analyss.
 - 🤔 I’m looking for help with Advanced Data analysis and Machine Learning.
 - 💬 Ask me about Artificial Intelligence.
-- 📫 How to reach me: 
-- 😄 Pronouns: Saikot
+- 📫 How to reach me: Github: https://github.com/Hadiuzzaman-Saikot
+- 😄 Pronouns: Mr.
 - ⚡ Fun fact: ...
 
